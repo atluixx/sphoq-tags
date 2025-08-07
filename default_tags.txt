@@ -1,4 +1,4 @@
-Name: Luix
+Name: Luix Lindo
 Deletable: false
 URL: null
 Content: 
