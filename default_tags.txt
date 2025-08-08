@@ -1,23 +1,28 @@
-Name: Luix Lindo
+Name: Tutorial de Como Criar Gamepass no Computador
 Deletable: false
-URL: null
+URL: https://youtu.be/EtZl4QWNbCk
 Content:
-hello
-world
-how arae you guys??
-**sadkaskd**
-### aaaa
-## aaa
-- a
-- b
-- c
-...
-1. a
-2. b
-3. c
+## <:spq_calendar_check:1402753009431216300> Tutorial de como criar Gamepasses 
+-# <:spq_youtube:1402994550644936734> Caso prefira assistir o tutorial em vídeo, clique no botão abaixo!
 
-:spq_airplane: :spq_clock:
+<:spq_caret_right:1402753029106565161> **Passo a passo:**
+1. Vá até a página inicial do Roblox
+2. Aperta na opção superior "Criar"
+3. Seleciona uma experiência pública
+4. Clique em "Gerenciar Experiência"
+5. No lado esquerdo, procure a opção "Passes"
+6. Clique no botão azul "Criar um Passe"
+7. Adicione um nome ao seu passe (obrigatório) e se quiser, adicione uma descrição e uma foto também
+8. Clique no botão "Criar Passe"
 
+-# <:spq_chat_dots:1402753019812122698> **(Continue se quiser adicionar um preço ao seu passe)**
+
+9. Na tabela aparecerá o passe criado, clique no nome do passe
+10. No lado esquerdo, clique na opção "Vendas"
+11. Ative a opção "Item á Venda"
+12. Escreva o valor do passe que desejar
+13. Desmarque a caixinha "Ativar Preços Regionais"
+14. Finalize clicando em "Salvar Alterações"
 <end-of-content>
 
 Name: Fagner
