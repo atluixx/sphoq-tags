@@ -25,30 +25,40 @@ Content:
 14. Finalize clicando em "Salvar Alterações"
 <end-of-content>
 
-Name: Fagner
+Name: Tutorial de Como Desativar Preço Regional
 Deletable: false
-URL: null
-Content: Something just for testing.
-
-<end-of-content>
-
-Name: Dog
-Deletable: false
-URL: null
-Content: Something
-Test
-
-<end-of-content>
-
-Name: Kavi
-Deletable: false
-URL: null
+URL: https://studio.youtube.com/video/B7_XUbO33KQ/edit
 Content:
+## <:spq_calendar_check:1402753009431216300> Tutorial de como desativar os Preços Regionais
+-# <:spq_youtube:1402994550644936734> Caso prefira assistir o tutorial em vídeo, clique no botão abaixo!
 
+<:spq_caret_right:1402753029106565161> **Passo a passo:**
+1. Vá até a página inicial do Roblox
+2. Clique na opção superior “Criar”
+3. Escolha a experiência onde o item (passe ou produto) foi criado
+4. Clique em “Gerenciar Experiência”
+5. No menu lateral esquerdo, vá até a opção "Passes"
+6. Clique no nome do item que você quer editar
+7. No lado esquerdo, selecione a aba “Vendas”
+8. Procure a opção “Ativar Preços Regionais”
+9. Desmarque essa caixinha para desativar os preços regionais
+10. Clique em "Salvar Alterações" no final da página
+<end-of-content>
 
+Name: Tutorial de Como Ver Robux Pendentes
+Deletable: false
+URL: https://www.youtube.com/watch?v=B7_XUbO33KQ&feature=youtu.be
+Content:
+## <:spq_calendar_check:1402753009431216300> Tutorial de como ver seus Robux Pendentes
+-# <:spq_youtube:1402994550644936734> Caso prefira assistir o tutorial em vídeo, clique no botão abaixo!
 
+<:spq_caret_right:1402753029106565161> **Passo a passo:**
 
+1. Vá até a página inicial do Roblox
+2. Clique no botão de Robux no canto superior direito
+3. Clique em "Minhas Transações"
+4. Pronto! Nessa página você verá todos os Robux que ainda estão em período de pendência. 
 
-
-Something
+-# <:spq_clock:1402767812912484553> Lembre-se: Os Robux costumam ficar pendentes de 5 a 7 dias após a entrega ser realizada.
+<end-of-content>
 
